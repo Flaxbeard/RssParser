@@ -10,7 +10,9 @@ feeds = [
     ("NYT","the New York Times - Europe","NYT-Europe","http://www.nytimes.com/services/xml/rss/nyt/Europe.xml"),
     ("NYT","the New York Times - Middle East","NYT-Middle East","http://www.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"),
     ("NYT","the New York Times - US","NYT-US","http://rss.nytimes.com/services/xml/rss/nyt/US.xml"),
-    ("BBC","the BBC - World","BBC-World","http://feeds.bbci.co.uk/news/world/rss.xml")
+    ("BBC","the BBC - World","BBC-World","http://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("BBC","the BBC - US/Canada","BBC-US/Canada","http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml")
+
     
     ]
 timeout = 120
