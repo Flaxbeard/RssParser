@@ -215,3 +215,6 @@ pip-log.txt
 .mr.developer.cfg
 
 extemp
+*.html
+*.pdf
+!rssParser.py
